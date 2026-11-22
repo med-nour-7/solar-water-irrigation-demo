@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.exe
+
+mobile_app/node_modules/
+mobile_app/.expo/
+mobile_app/dist/
+mobile_app/android/.gradle/
+mobile_app/android/build/
+mobile_app/android/app/build/
+
+Thumbs.db
+.DS_Store
+
+/package-lock.json
+/station_irrigation_scada - Copy.py
+/station_irrigation_scada_Copy.py
